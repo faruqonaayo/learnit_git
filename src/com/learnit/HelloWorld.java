@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Hello, World!");
 		System.out.println("Welcome to Learning Git.");
 		System.out.println("This is my first Java program.");
+		System.out.println("Let's explore more about Git and Java.");
 	}
 
 }
